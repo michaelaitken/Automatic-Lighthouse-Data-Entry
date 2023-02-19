@@ -1,0 +1,3110 @@
+[
+    {
+        "original_code": "MY1T1800PE24001200WHITESS4CFxx",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": 0.0,
+            "norm": 0.3,
+            "usl": 0.6
+        },
+        "temp_bottom": {
+            "lsl": 188,
+            "norm": 190,
+            "usl": 192
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 180,
+            "usl": 182
+        },
+        "press_time": {
+            "lsl": 23,
+            "norm": 23,
+            "usl": 23
+        }
+    },
+    {
+        "original_code": "MYDT1600DE24001200WHITE R",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PM1T2500DE24001200WHITEX x",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": 0.0,
+            "norm": 0.3,
+            "usl": 0.6
+        },
+        "temp_bottom": {
+            "lsl": 188,
+            "norm": 190,
+            "usl": 192
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 180,
+            "usl": 182
+        },
+        "press_time": {
+            "lsl": 23,
+            "norm": 23,
+            "usl": 23
+        }
+    },
+    {
+        "original_code": "PM1T2500PE36601840WHITEB",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.3,
+            "norm": 0.3,
+            "usl": 0.9
+        },
+        "temp_bottom": {
+            "lsl": 179,
+            "norm": 184,
+            "usl": 189
+        },
+        "temp_top": {
+            "lsl": 170,
+            "norm": 175,
+            "usl": 180
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 24
+        }
+    },
+    {
+        "original_code": "PM1T3300FL36001200AQUABANWHIAA",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.9,
+            "norm": 0.0,
+            "usl": 0.9
+        },
+        "temp_bottom": {
+            "lsl": 190,
+            "norm": 196,
+            "usl": 202
+        },
+        "temp_top": {
+            "lsl": 194,
+            "norm": 196,
+            "usl": 198
+        },
+        "press_time": {
+            "lsl": 25,
+            "norm": 25,
+            "usl": 25
+        }
+    },
+    {
+        "original_code": "PM1T3300FL36001800WHITE G",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.3,
+            "norm": 0.3,
+            "usl": 0.9
+        },
+        "temp_bottom": {
+            "lsl": 179,
+            "norm": 184,
+            "usl": 189
+        },
+        "temp_top": {
+            "lsl": 170,
+            "norm": 175,
+            "usl": 180
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 24
+        }
+    },
+    {
+        "original_code": "PM1T3300FL36601840AQUABANWHIRR",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.3,
+            "norm": 0.3,
+            "usl": 0.9
+        },
+        "temp_bottom": {
+            "lsl": 179,
+            "norm": 184,
+            "usl": 189
+        },
+        "temp_top": {
+            "lsl": 170,
+            "norm": 175,
+            "usl": 180
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 24
+        }
+    },
+    {
+        "original_code": "PM1T3300FL36601840WHITEO",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.3,
+            "norm": 0.3,
+            "usl": 0.9
+        },
+        "temp_bottom": {
+            "lsl": 179,
+            "norm": 184,
+            "usl": 189
+        },
+        "temp_top": {
+            "lsl": 170,
+            "norm": 175,
+            "usl": 180
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 24
+        }
+    },
+    {
+        "original_code": "PM1T3300PE36601235WHITEF",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.9,
+            "norm": 0.0,
+            "usl": 0.9
+        },
+        "temp_bottom": {
+            "lsl": 190,
+            "norm": 196,
+            "usl": 202
+        },
+        "temp_top": {
+            "lsl": 194,
+            "norm": 196,
+            "usl": 198
+        },
+        "press_time": {
+            "lsl": 25,
+            "norm": 25,
+            "usl": 25
+        }
+    },
+    {
+        "original_code": "PM1T3800FL36001200AQUABANWHI B",
+        "board_thickness": {
+            "lsl": 37.9,
+            "norm": 38.0,
+            "usl": 38.1
+        },
+        "bow_reading": {
+            "lsl": -0.9,
+            "norm": 0.0,
+            "usl": 0.9
+        },
+        "temp_bottom": {
+            "lsl": 190,
+            "norm": 196,
+            "usl": 202
+        },
+        "temp_top": {
+            "lsl": 194,
+            "norm": 196,
+            "usl": 198
+        },
+        "press_time": {
+            "lsl": 25,
+            "norm": 25,
+            "usl": 25
+        }
+    },
+    {
+        "original_code": "PM1T3800FL36301840AQUABANWHI R",
+        "board_thickness": {
+            "lsl": 37.9,
+            "norm": 38.0,
+            "usl": 38.1
+        },
+        "bow_reading": {
+            "lsl": -0.3,
+            "norm": 0.3,
+            "usl": 0.9
+        },
+        "temp_bottom": {
+            "lsl": 179,
+            "norm": 184,
+            "usl": 189
+        },
+        "temp_top": {
+            "lsl": 170,
+            "norm": 175,
+            "usl": 180
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 24
+        }
+    },
+    {
+        "original_code": "PM1T3800FL36301840AQUABANWHIO",
+        "board_thickness": {
+            "lsl": 37.9,
+            "norm": 38.0,
+            "usl": 38.1
+        },
+        "bow_reading": {
+            "lsl": -0.3,
+            "norm": 0.3,
+            "usl": 0.9
+        },
+        "temp_bottom": {
+            "lsl": 179,
+            "norm": 184,
+            "usl": 189
+        },
+        "temp_top": {
+            "lsl": 170,
+            "norm": 175,
+            "usl": 180
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 24
+        }
+    },
+    {
+        "original_code": "PMDF1600PE24001800BLACK R",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 171,
+            "norm": 176,
+            "usl": 181
+        },
+        "temp_top": {
+            "lsl": 173,
+            "norm": 178,
+            "usl": 183
+        },
+        "press_time": {
+            "lsl": 40,
+            "norm": 40,
+            "usl": 50
+        }
+    },
+    {
+        "original_code": "PMDF1600PE36001800BLACK R",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 171,
+            "norm": 176,
+            "usl": 181
+        },
+        "temp_top": {
+            "lsl": 173,
+            "norm": 178,
+            "usl": 183
+        },
+        "press_time": {
+            "lsl": 40,
+            "norm": 40,
+            "usl": 50
+        }
+    },
+    {
+        "original_code": "PMDL1600FL24001200POLARWHITERR",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PMDT0900DE36001800WHITE C",
+        "board_thickness": {
+            "lsl": 8.9,
+            "norm": 9.0,
+            "usl": 9.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 193,
+            "norm": 198,
+            "usl": 203
+        },
+        "temp_top": {
+            "lsl": 200,
+            "norm": 205,
+            "usl": 210
+        },
+        "press_time": {
+            "lsl": 18,
+            "norm": 18,
+            "usl": 23
+        }
+    },
+    {
+        "original_code": "PMDT0900PE24001800WHITE X",
+        "board_thickness": {
+            "lsl": 8.9,
+            "norm": 9.0,
+            "usl": 9.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 193,
+            "norm": 198,
+            "usl": 203
+        },
+        "temp_top": {
+            "lsl": 200,
+            "norm": 205,
+            "usl": 210
+        },
+        "press_time": {
+            "lsl": 18,
+            "norm": 18,
+            "usl": 23
+        }
+    },
+    {
+        "original_code": "PMDT1200DE24001200WHITE A",
+        "board_thickness": {
+            "lsl": 11.9,
+            "norm": 12.0,
+            "usl": 12.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PMDT1200DE24001800WHITE",
+        "board_thickness": {
+            "lsl": 11.9,
+            "norm": 12.0,
+            "usl": 12.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 193,
+            "norm": 198,
+            "usl": 203
+        },
+        "temp_top": {
+            "lsl": 200,
+            "norm": 205,
+            "usl": 210
+        },
+        "press_time": {
+            "lsl": 18,
+            "norm": 18,
+            "usl": 23
+        }
+    },
+    {
+        "original_code": "PMDT1200DE36001200WHITE B",
+        "board_thickness": {
+            "lsl": 11.9,
+            "norm": 12.0,
+            "usl": 12.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PMDT1200DE36001800WHITE B",
+        "board_thickness": {
+            "lsl": 11.9,
+            "norm": 12.0,
+            "usl": 12.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 193,
+            "norm": 198,
+            "usl": 203
+        },
+        "temp_top": {
+            "lsl": 200,
+            "norm": 205,
+            "usl": 210
+        },
+        "press_time": {
+            "lsl": 18,
+            "norm": 18,
+            "usl": 23
+        }
+    },
+    {
+        "original_code": "PMDT1600DE24001200WHITE R",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PMDT1600DE24001800WHITE R",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "press_time": {
+            "lsl": 15,
+            "norm": 15,
+            "usl": 18
+        }
+    },
+    {
+        "original_code": "PMDT1600DE24001800WHITEF",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "press_time": {
+            "lsl": 15,
+            "norm": 15,
+            "usl": 18
+        }
+    },
+    {
+        "original_code": "PMDT1600DE36001200WHITE R",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PMDT1600DE36001800WHITE R",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "temp_top": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "press_time": {
+            "lsl": 13.5,
+            "norm": 13.5,
+            "usl": 16.5
+        }
+    },
+    {
+        "original_code": "PMDT1600DE36001800WHITEF",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "temp_top": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "press_time": {
+            "lsl": 13.5,
+            "norm": 13.5,
+            "usl": 16.5
+        }
+    },
+    {
+        "original_code": "PMDT1600VE24001800WHITES S",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "press_time": {
+            "lsl": 15,
+            "norm": 15,
+            "usl": 18
+        }
+    },
+    {
+        "original_code": "PMDT1800DE24001200WHITE A",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PMDT1800DE24001800WHITE A",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "press_time": {
+            "lsl": 15,
+            "norm": 15,
+            "usl": 18
+        }
+    },
+    {
+        "original_code": "PMDT1800DE36001200WHITE B",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PMDT1800DE36001800WHITE R",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "temp_top": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "press_time": {
+            "lsl": 13.5,
+            "norm": 13.5,
+            "usl": 16.5
+        }
+    },
+    {
+        "original_code": "PMDT2500DE24001200WHITER R",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PMDT2500DE24001800WHITEA A",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "press_time": {
+            "lsl": 15,
+            "norm": 15,
+            "usl": 18
+        }
+    },
+    {
+        "original_code": "PMDT2500DE36001200WHITEA A",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PMDT2500DE36001800WHITER R",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "temp_top": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "press_time": {
+            "lsl": 13.5,
+            "norm": 13.5,
+            "usl": 16.5
+        }
+    },
+    {
+        "original_code": "PMDT3300DE24001200WHITE A",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PMDT3300DE24001800WHITEC",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "press_time": {
+            "lsl": 15,
+            "norm": 15,
+            "usl": 18
+        }
+    },
+    {
+        "original_code": "PMDT3300DE36001800WHITEA A",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "temp_top": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "press_time": {
+            "lsl": 13.5,
+            "norm": 13.5,
+            "usl": 16.5
+        }
+    },
+    {
+        "original_code": "PSDF0900PE24001800STREETLIGH x",
+        "board_thickness": {
+            "lsl": 8.9,
+            "norm": 9.0,
+            "usl": 9.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 193,
+            "norm": 198,
+            "usl": 203
+        },
+        "temp_top": {
+            "lsl": 200,
+            "norm": 205,
+            "usl": 210
+        },
+        "press_time": {
+            "lsl": 18,
+            "norm": 18,
+            "usl": 23
+        }
+    },
+    {
+        "original_code": "PSDF0900PE36001800SEALGREY x",
+        "board_thickness": {
+            "lsl": 8.9,
+            "norm": 9.0,
+            "usl": 9.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 193,
+            "norm": 198,
+            "usl": 203
+        },
+        "temp_top": {
+            "lsl": 200,
+            "norm": 205,
+            "usl": 210
+        },
+        "press_time": {
+            "lsl": 18,
+            "norm": 18,
+            "usl": 23
+        }
+    },
+    {
+        "original_code": "PSDF1200PE24001800BLACK x",
+        "board_thickness": {
+            "lsl": 11.9,
+            "norm": 12.0,
+            "usl": 12.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 193,
+            "norm": 198,
+            "usl": 203
+        },
+        "temp_top": {
+            "lsl": 200,
+            "norm": 205,
+            "usl": 210
+        },
+        "press_time": {
+            "lsl": 18,
+            "norm": 18,
+            "usl": 23
+        }
+    },
+    {
+        "original_code": "PSDF1600PE24001800BLACK X",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 171,
+            "norm": 176,
+            "usl": 181
+        },
+        "temp_top": {
+            "lsl": 173,
+            "norm": 178,
+            "usl": 183
+        },
+        "press_time": {
+            "lsl": 40,
+            "norm": 40,
+            "usl": 50
+        }
+    },
+    {
+        "original_code": "PSDF1600PE24001800GOLDEBEECH x",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PSDF1600PE24001800SEALGREY x",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PSDF1800PE24001800BLACK X",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 171,
+            "norm": 176,
+            "usl": 181
+        },
+        "temp_top": {
+            "lsl": 173,
+            "norm": 178,
+            "usl": 183
+        },
+        "press_time": {
+            "lsl": 40,
+            "norm": 40,
+            "usl": 50
+        }
+    },
+    {
+        "original_code": "PSDF1800PE24001800EUROBEECH x",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PSDF1800PE24001800GOLDEBEECH x",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PSDF1800PE24001800IRONSTONE x",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PSDF1800PE24001800SEALGREY x",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PSDF1800PE24001800SNOWDRIFT x",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PSDF2500PE24001800BLACK x",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 171,
+            "norm": 176,
+            "usl": 181
+        },
+        "temp_top": {
+            "lsl": 173,
+            "norm": 178,
+            "usl": 183
+        },
+        "press_time": {
+            "lsl": 40,
+            "norm": 40,
+            "usl": 50
+        }
+    },
+    {
+        "original_code": "PSDF2500PE24001800GOLDENBEEC x",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PSDF2500PE24001800IRONSTONE X",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PSDF2500PE24001800SEALGREY x",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PSDF2500PE24001800SNOWDRIFT x",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PSDF2500PE36001800SNOWDRIFT x",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PSDF3300PE24001800SEALGREY X",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PSDT0900DE24001800WHITEB",
+        "board_thickness": {
+            "lsl": 8.9,
+            "norm": 9.0,
+            "usl": 9.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 193,
+            "norm": 198,
+            "usl": 203
+        },
+        "temp_top": {
+            "lsl": 200,
+            "norm": 205,
+            "usl": 210
+        },
+        "press_time": {
+            "lsl": 18,
+            "norm": 18,
+            "usl": 23
+        }
+    },
+    {
+        "original_code": "PSDT1200DE24001200WHITE B",
+        "board_thickness": {
+            "lsl": 11.9,
+            "norm": 12.0,
+            "usl": 12.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PSDT1200DE24001800WHITE C",
+        "board_thickness": {
+            "lsl": 11.9,
+            "norm": 12.0,
+            "usl": 12.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 193,
+            "norm": 198,
+            "usl": 203
+        },
+        "temp_top": {
+            "lsl": 200,
+            "norm": 205,
+            "usl": 210
+        },
+        "press_time": {
+            "lsl": 18,
+            "norm": 18,
+            "usl": 23
+        }
+    },
+    {
+        "original_code": "PSDT1200DE36001200WHITE C",
+        "board_thickness": {
+            "lsl": 11.9,
+            "norm": 12.0,
+            "usl": 12.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PSDT1600DE24001200WHITE A",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PSDT1600DE24001200WHITEF",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PSDT1600DE24001800WHITE A",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "press_time": {
+            "lsl": 15,
+            "norm": 15,
+            "usl": 18
+        }
+    },
+    {
+        "original_code": "PSDT1600DE24001800WHITEO",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "press_time": {
+            "lsl": 15,
+            "norm": 15,
+            "usl": 18
+        }
+    },
+    {
+        "original_code": "PSDT1600DE36001200WHITE B",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PSDT1600DE36001800WHITE A",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "temp_top": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "press_time": {
+            "lsl": 13.5,
+            "norm": 13.5,
+            "usl": 16.5
+        }
+    },
+    {
+        "original_code": "PSDT1600DE36001800WHITEF",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "temp_top": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "press_time": {
+            "lsl": 13.5,
+            "norm": 13.5,
+            "usl": 16.5
+        }
+    },
+    {
+        "original_code": "PSDT1600VE24001800WHITE S",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "press_time": {
+            "lsl": 15,
+            "norm": 15,
+            "usl": 18
+        }
+    },
+    {
+        "original_code": "PSDT1600VE36001800WHITE S",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "temp_top": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "press_time": {
+            "lsl": 13.5,
+            "norm": 13.5,
+            "usl": 16.5
+        }
+    },
+    {
+        "original_code": "PSDT1800DE24001200WHITE C",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PSDT1800DE24001800WHITE C",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "press_time": {
+            "lsl": 15,
+            "norm": 15,
+            "usl": 18
+        }
+    },
+    {
+        "original_code": "PSDT1800DE36001800WHITE C",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "temp_top": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "press_time": {
+            "lsl": 13.5,
+            "norm": 13.5,
+            "usl": 16.5
+        }
+    },
+    {
+        "original_code": "PSDT2500DE24001800WHITEA",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "press_time": {
+            "lsl": 15,
+            "norm": 15,
+            "usl": 18
+        }
+    },
+    {
+        "original_code": "PSDT2500DE36001800WHITEB",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "temp_top": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "press_time": {
+            "lsl": 13.5,
+            "norm": 13.5,
+            "usl": 16.5
+        }
+    },
+    {
+        "original_code": "PSDT3300DE24001800WHITEC",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "press_time": {
+            "lsl": 15,
+            "norm": 15,
+            "usl": 18
+        }
+    },
+    {
+        "original_code": "PY1T2500DE36301840WHITE G",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.3,
+            "norm": 0.3,
+            "usl": 0.9
+        },
+        "temp_bottom": {
+            "lsl": 179,
+            "norm": 184,
+            "usl": 189
+        },
+        "temp_top": {
+            "lsl": 170,
+            "norm": 175,
+            "usl": 180
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 24
+        }
+    },
+    {
+        "original_code": "PY1T3800FL36601840AQUABANWHI A",
+        "board_thickness": {
+            "lsl": 37.9,
+            "norm": 38.0,
+            "usl": 38.1
+        },
+        "bow_reading": {
+            "lsl": -0.3,
+            "norm": 0.3,
+            "usl": 0.9
+        },
+        "temp_bottom": {
+            "lsl": 179,
+            "norm": 184,
+            "usl": 189
+        },
+        "temp_top": {
+            "lsl": 170,
+            "norm": 175,
+            "usl": 180
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 24
+        }
+    },
+    {
+        "original_code": "PYDL1800FL36001800BLACK R",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 171,
+            "norm": 176,
+            "usl": 181
+        },
+        "temp_top": {
+            "lsl": 173,
+            "norm": 178,
+            "usl": 183
+        },
+        "press_time": {
+            "lsl": 40,
+            "norm": 40,
+            "usl": 50
+        }
+    },
+    {
+        "original_code": "PYDL1800FL36001800CHARCOAL R",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 171,
+            "norm": 176,
+            "usl": 181
+        },
+        "temp_top": {
+            "lsl": 173,
+            "norm": 178,
+            "usl": 183
+        },
+        "press_time": {
+            "lsl": 40,
+            "norm": 40,
+            "usl": 50
+        }
+    },
+    {
+        "original_code": "PYDL1800FL36001800GREYSTONEA A",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PYDL1800FL36001800OYSTERGREY R",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PYDL1800FL36001800PARCHMENT R",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PYDL1800FL36001800POLARWHITERR",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PYDL1800FL36001800WHITE R",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PYDL2500FL36001800BLACKR R",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 171,
+            "norm": 176,
+            "usl": 181
+        },
+        "temp_top": {
+            "lsl": 173,
+            "norm": 178,
+            "usl": 183
+        },
+        "press_time": {
+            "lsl": 40,
+            "norm": 40,
+            "usl": 50
+        }
+    },
+    {
+        "original_code": "PYDL2500FL36001800CHARCOALA A",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 171,
+            "norm": 176,
+            "usl": 181
+        },
+        "temp_top": {
+            "lsl": 173,
+            "norm": 178,
+            "usl": 183
+        },
+        "press_time": {
+            "lsl": 40,
+            "norm": 40,
+            "usl": 50
+        }
+    },
+    {
+        "original_code": "PYDL2500FL36001800GREYSTONEA A",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PYDL2500FL36001800OYSTERGREY A",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PYDL2500FL36001800PARCHMENTA A",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PYDL2500FL36001800POLWHITE R",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PYDL2500FL36001800WHITE R",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PYDL3300FL36001800BLACKA A",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 171,
+            "norm": 176,
+            "usl": 181
+        },
+        "temp_top": {
+            "lsl": 173,
+            "norm": 178,
+            "usl": 183
+        },
+        "press_time": {
+            "lsl": 40,
+            "norm": 40,
+            "usl": 50
+        }
+    },
+    {
+        "original_code": "PYDL3300FL36001800CHARCOALA A",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 171,
+            "norm": 176,
+            "usl": 181
+        },
+        "temp_top": {
+            "lsl": 173,
+            "norm": 178,
+            "usl": 183
+        },
+        "press_time": {
+            "lsl": 40,
+            "norm": 40,
+            "usl": 50
+        }
+    },
+    {
+        "original_code": "PYDL3300FL36001800OYSTERGREY A",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PYDL3300FL36001800PARCHMENTA A",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PYDL3300FL36001800POLARWHITEAA",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PYDL3300FL36001800WHITER R",
+        "board_thickness": {
+            "lsl": 32.9,
+            "norm": 33.0,
+            "usl": 33.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PYDT0900DE24001800WHITE U",
+        "board_thickness": {
+            "lsl": 8.9,
+            "norm": 9.0,
+            "usl": 9.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 193,
+            "norm": 198,
+            "usl": 203
+        },
+        "temp_top": {
+            "lsl": 200,
+            "norm": 205,
+            "usl": 210
+        },
+        "press_time": {
+            "lsl": 18,
+            "norm": 18,
+            "usl": 23
+        }
+    },
+    {
+        "original_code": "PYDT1600DE24001200WHITE A",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 185,
+            "norm": 190,
+            "usl": 195
+        },
+        "temp_top": {
+            "lsl": 190,
+            "norm": 195,
+            "usl": 200
+        },
+        "press_time": {
+            "lsl": 17,
+            "norm": 17,
+            "usl": 22
+        }
+    },
+    {
+        "original_code": "PYDT1600DE24001800WHITE A",
+        "board_thickness": {
+            "lsl": 15.9,
+            "norm": 16.0,
+            "usl": 16.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "temp_top": {
+            "lsl": 178,
+            "norm": 183,
+            "usl": 188
+        },
+        "press_time": {
+            "lsl": 15,
+            "norm": 15,
+            "usl": 18
+        }
+    },
+    {
+        "original_code": "PYDT1800DE36001800WHITE B",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "temp_top": {
+            "lsl": 177,
+            "norm": 182,
+            "usl": 187
+        },
+        "press_time": {
+            "lsl": 13.5,
+            "norm": 13.5,
+            "usl": 16.5
+        }
+    },
+    {
+        "original_code": "PZDF1800PE24001800GOLDENBEEC x",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PZDF1800PE24001800IRONSTONE x",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PZDF1800PE24001800SEALGREY x",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PZDF1800PE24001800SNOWDRIFT x",
+        "board_thickness": {
+            "lsl": 17.9,
+            "norm": 18.0,
+            "usl": 18.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PZDF2500PE24001800GOLDENBEEC x",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PZDF2500PE24001800IRONSTONE x",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PZDF2500PE24001800SEALGREY x",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    },
+    {
+        "original_code": "PZDF2500PE24001800SNOWDRIFT x",
+        "board_thickness": {
+            "lsl": 24.9,
+            "norm": 25.0,
+            "usl": 25.1
+        },
+        "bow_reading": {
+            "lsl": -0.5,
+            "norm": 0.0,
+            "usl": 0.5
+        },
+        "temp_bottom": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "temp_top": {
+            "lsl": 186,
+            "norm": 191,
+            "usl": 196
+        },
+        "press_time": {
+            "lsl": 22,
+            "norm": 22,
+            "usl": 29
+        }
+    }
+]
