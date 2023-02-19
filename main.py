@@ -3,9 +3,9 @@ import json
 
 
     # ---------- Global Variables ---------- #
-URL = "https://lmxlighthouse.fbu.com/sfolv7/#2/grid/ProductType"
-USERNAME = "michael.aitken"
-PASSWORD = "Laminex1"
+URL = "LIGHTHOUSE_URL"
+USERNAME = "LIGHTHOUSE_USERNAME"
+PASSWORD = "LIGHTHOUSE_PASSWORD"
 
 
     # ---------- Main Program ---------- #
